@@ -1,0 +1,16 @@
+.custom-card {
+  width: 200px;
+  height: 300px;
+  cursor: pointer;
+  .exercises-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+  .exercise-title {
+    font-weight: bold;
+  }
+}
+// .lazyload-wrapper {
+//   display: inline-block;
+// }
